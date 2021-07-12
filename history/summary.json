@@ -12,7 +12,7 @@
     "uptimeYear": "99.85%",
     "time": 878,
     "timeDay": 924,
-    "timeWeek": 859,
+    "timeWeek": 831,
     "timeMonth": 878,
     "timeYear": 878,
     "dailyMinutesDown": {
@@ -26,14 +26,14 @@
     "icon": "https://favicons.githubusercontent.com/stage-portal.infohalle.com",
     "slug": "infohalle-stage",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "99.46%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 651,
     "timeDay": 682,
-    "timeWeek": 641,
+    "timeWeek": 627,
     "timeMonth": 651,
     "timeYear": 651,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "100.00%",
     "time": 962,
     "timeDay": 979,
-    "timeWeek": 947,
+    "timeWeek": 862,
     "timeMonth": 962,
     "timeYear": 962,
     "dailyMinutesDown": {}
@@ -73,7 +73,7 @@
     "uptimeYear": "100.00%",
     "time": 1222,
     "timeDay": 1468,
-    "timeWeek": 1189,
+    "timeWeek": 1144,
     "timeMonth": 1222,
     "timeYear": 1222,
     "dailyMinutesDown": {}
@@ -91,7 +91,7 @@
     "uptimeYear": "100.00%",
     "time": 1292,
     "timeDay": 1515,
-    "timeWeek": 1261,
+    "timeWeek": 1209,
     "timeMonth": 1292,
     "timeYear": 1292,
     "dailyMinutesDown": {}
@@ -101,18 +101,20 @@
     "url": "http://cafe-europe.info/",
     "icon": "https://favicons.githubusercontent.com/cafe-europe.info",
     "slug": "cafe-europe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 731,
-    "timeWeek": 632,
+    "timeWeek": 598,
     "timeMonth": 663,
     "timeYear": 663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-12": 0
+    }
   },
   {
     "name": "ce email",
@@ -127,7 +129,7 @@
     "uptimeYear": "100.00%",
     "time": 805,
     "timeDay": 948,
-    "timeWeek": 784,
+    "timeWeek": 733,
     "timeMonth": 805,
     "timeYear": 805,
     "dailyMinutesDown": {}

@@ -1,7 +1,7 @@
 url: http://portal.infohalle.com/
-status: down
-code: 503
-responseTime: 633
-lastUpdated: 2021-07-24T10:31:04.597Z
+status: up
+code: 200
+responseTime: 723
+lastUpdated: 2021-07-24T10:37:32.261Z
 startTime: Mon Jul 05 2021 09:28:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

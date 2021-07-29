@@ -71,10 +71,10 @@
     "url": "http://punkt4.info/",
     "icon": "https://favicons.githubusercontent.com/punkt4.info",
     "slug": "punkt4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1232,
@@ -82,16 +82,18 @@
     "timeWeek": 1353,
     "timeMonth": 1232,
     "timeYear": 1232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-29": 2
+    }
   },
   {
     "name": "swisstrade",
     "url": "http://swisstrade.com/",
     "icon": "https://favicons.githubusercontent.com/swisstrade.com",
     "slug": "swisstrade",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -101,6 +103,7 @@
     "timeMonth": 1250,
     "timeYear": 1250,
     "dailyMinutesDown": {
+      "2021-07-29": 0,
       "2021-07-24": 7
     }
   },
@@ -110,11 +113,11 @@
     "icon": "https://favicons.githubusercontent.com/cafe-europe.info",
     "slug": "cafe-europe",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.22%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "97.25%",
     "time": 621,
     "timeDay": 765,
     "timeWeek": 738,

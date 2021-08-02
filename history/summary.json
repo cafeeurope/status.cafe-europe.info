@@ -54,10 +54,10 @@
     "url": "https://nachrichtenaustausch.ch/typo3/",
     "icon": "https://favicons.githubusercontent.com/nachrichtenaustausch.ch",
     "slug": "typo3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 923,
@@ -65,17 +65,19 @@
     "timeWeek": 953,
     "timeMonth": 923,
     "timeYear": 923,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-02": 2
+    }
   },
   {
     "name": "punkt4",
     "url": "http://punkt4.info/",
     "icon": "https://favicons.githubusercontent.com/punkt4.info",
     "slug": "punkt4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1547,
@@ -84,6 +86,7 @@
     "timeMonth": 1547,
     "timeYear": 1547,
     "dailyMinutesDown": {
+      "2021-08-02": 1,
       "2021-07-29": 9
     }
   },
@@ -92,10 +95,10 @@
     "url": "http://swisstrade.com/",
     "icon": "https://favicons.githubusercontent.com/swisstrade.com",
     "slug": "swisstrade",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1323,
@@ -104,6 +107,7 @@
     "timeMonth": 1323,
     "timeYear": 1323,
     "dailyMinutesDown": {
+      "2021-08-02": 1,
       "2021-07-29": 7,
       "2021-07-24": 7
     }
@@ -114,11 +118,11 @@
     "icon": "https://favicons.githubusercontent.com/cafe-europe.info",
     "slug": "cafe-europe",
     "status": "up",
-    "uptime": "97.62%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
     "time": 617,
     "timeDay": 506,
     "timeWeek": 777,
@@ -135,9 +139,9 @@
     "url": "https://host.cafe-europe.info/",
     "icon": "https://favicons.githubusercontent.com/host.cafe-europe.info",
     "slug": "ce-email",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,6 +150,8 @@
     "timeWeek": 752,
     "timeMonth": 757,
     "timeYear": 757,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-02": 0
+    }
   }
 ]
